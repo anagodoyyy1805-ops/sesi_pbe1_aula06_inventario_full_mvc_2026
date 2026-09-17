@@ -1,1 +1,11 @@
-"# sesi_pbe1_aula06_inventario_full_mvc_2026" 
+
+# Inventario Backend
+Aula de backend MVC projeto de exemplo usando um mockup bens.json
+
+## Tecnologias
+- node.js
+- Express
+- Cors
+- MVC
+- VsCode
+- JavaScript
